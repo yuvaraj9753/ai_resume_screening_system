@@ -5,3 +5,4 @@ scikit-learn
 pdfminer.six
 python-docx
 fpdf
+matplotlib
