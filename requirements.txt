@@ -6,4 +6,7 @@ pdfminer.six
 python-docx
 fpdf
 matplotlib
+sentence-transformers
+torch
+
 
