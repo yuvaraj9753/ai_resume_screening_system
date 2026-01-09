@@ -6,9 +6,10 @@ numpy
 pandas
 scikit-learn
 matplotlib
-spacy==3.7.2
-sentence-transformers==2.2.2
-torch==1.13.1
+spacy
+sentence-transformers
+torch
+
 
 
 
